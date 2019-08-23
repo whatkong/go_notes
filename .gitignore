@@ -1,0 +1,6 @@
+./idea
+./config
+./conf
+*.conf
+*.xml
+*.yaml
